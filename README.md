@@ -15,7 +15,7 @@ Educational: Helps users understand basic concepts of parts of speech and stimul
 To install and run the Madlibs game on your local machine, follow these steps:
 
 **Clone the repository:**
-git clone https://github.com/yourusername/Madlibs.git
+git clone https://github.com/regmibhuwan/Madlibs.git
 
 **Navigate to the cloned repository:**
 cd Madlibs
