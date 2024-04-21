@@ -1,4 +1,4 @@
-# Madlibs*
+# Madlibs
 
 ## Description:
 
